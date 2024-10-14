@@ -16,7 +16,7 @@ interface MyFunction {
 void print(String message);
 }
 
-## Streams
+## <span style="color:blue">Streams</span>
 
 Stream Pipeline: A stream pipeline consists of:
 
@@ -39,7 +39,7 @@ List<String> result = names.stream()
 
 System.out.println(result); // Output: [JACK, JANE, JOHN]
 
-### Parallel Streams
+### Parallel Streams `#RRGGBB`
 
 Parallelizing streams in Java refers to breaking up a stream of data into multiple chunks and processing them concurrently using multiple threads, typically leveraging multi-core processors. This allows for faster data processing by dividing the workload across different threads, potentially reducing the overall execution time for large datasets.
 
