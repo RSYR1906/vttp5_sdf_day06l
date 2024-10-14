@@ -16,7 +16,7 @@ interface MyFunction {
 void print(String message);
 }
 
-## <span style="color: red">Streams</span>
+## Streams
 
 Stream Pipeline: A stream pipeline consists of:
 
